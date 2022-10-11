@@ -1,0 +1,4 @@
+StepDefinition\Verify_text.class
+Runner\TestRunner.class
+StepDefinition\Sample_app.class
+StepDefinition\Dynamic_id.class
